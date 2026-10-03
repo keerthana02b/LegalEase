@@ -3,9 +3,7 @@ import requests
 from utils.format_pdf import format_pdf
 from utils.format_docx import format_docx
 from utils.format_txt import format_txt
-
-API_URL = "http://127.0.0.1:8000"
-
+https://legalease-2rjl.onrender.com
 st.set_page_config(
     page_title="LegalEase",
     page_icon="⚖️",
